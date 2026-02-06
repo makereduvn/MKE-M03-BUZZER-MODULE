@@ -41,7 +41,7 @@ Mạch còi báo MKE-M03 Buzzer Module hỗ trợ điện áp điều khiển 3.
   </tr>
   <tr>
     <td>SIG</td>
-    <td>Chân tín hiệu điều khiển DIGITAL IN</td>
+    <td>Chân tín hiệu điều khiển Digital In</td>
   </tr>
 </tbody>
 </table>
@@ -52,7 +52,7 @@ Mạch còi báo MKE-M03 Buzzer Module hỗ trợ điện áp điều khiển 3.
 - Điều khiển đèn Led qua chân tín hiệu SIG.
 <table><thead>
   <tr>
-    <th>SIG (DIGITAL IN)</th>
+    <th>SIG (Digital In)</th>
     <th>Trạng thái</th>
   </tr></thead>
 <tbody>
@@ -89,3 +89,4 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M03 Buzzer](/extras/MKE-M03_2.png)
 ![MKE-M03 Buzzer](/extras/MKE-M03_3.png)
+
