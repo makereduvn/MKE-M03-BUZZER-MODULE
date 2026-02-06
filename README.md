@@ -49,7 +49,7 @@ Mạch còi báo MKE-M03 Buzzer Module hỗ trợ điện áp điều khiển 3.
 ## Hướng dẫn sử dụng
 ### Hướng dẫn kết nối
 - Cấp nguồn 5VDC cho mạch qua hai chân GND và 5V.
-- Điều khiển đèn Led qua chân tín hiệu SIG.
+- Điều khiển đèn còi Buzzer qua chân tín hiệu SIG.
 <table><thead>
   <tr>
     <th>SIG (Digital In)</th>
@@ -89,4 +89,5 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M03 Buzzer](/extras/MKE-M03_2.png)
 ![MKE-M03 Buzzer](/extras/MKE-M03_3.png)
+
 
