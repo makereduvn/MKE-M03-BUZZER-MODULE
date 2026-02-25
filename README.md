@@ -3,7 +3,7 @@
 ## Giới thiệu sản phẩm
 MKE-M03 Buzzer Module là mạch còi báo sử dụng **Active Buzzer**, cho phép phát âm thanh ngay khi được cấp tín hiệu điều khiển. Sản phẩm được ứng dụng rộng rãi trong các hệ thống báo hiệu, cảnh báo, chống trộm, phản hồi âm thanh, cũng như trong các mô hình robot, dự án STEM và đồ án học tập.
 
-Mạch còi báo MKE-M03 Buzzer Module hỗ trợ điện áp điều khiển 3.3V và 5VDC, giúp dễ dàng kết nối trực tiếp với các bo mạch điều khiển phổ biến như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
+Mạch còi báo MKE-M03 Buzzer Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, giúp dễ dàng kết nối trực tiếp với các bo mạch điều khiển phổ biến như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
 
 ## Thông số kỹ thuật
 - Điện áp cấp nguồn: 5VDC
@@ -89,5 +89,6 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M03 Buzzer](/extras/MKE-M03_2.png)
 ![MKE-M03 Buzzer](/extras/MKE-M03_3.png)
+
 
 
