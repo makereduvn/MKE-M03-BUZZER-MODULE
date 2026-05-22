@@ -1,6 +1,6 @@
 # Mạch còi báo MKE-M03 Buzzer Module
 
-## Giới thiệu sản phẩm
+## Giới thiệu
 MKE-M03 Buzzer Module là mạch còi báo sử dụng **Active Buzzer**, cho phép phát âm thanh ngay khi được cấp tín hiệu điều khiển. Sản phẩm được ứng dụng rộng rãi trong các hệ thống báo hiệu, cảnh báo, chống trộm, phản hồi âm thanh, cũng như trong các mô hình robot, dự án STEM và đồ án học tập.
 
 Mạch còi báo MKE-M03 Buzzer Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, giúp dễ dàng kết nối trực tiếp với các bo mạch điều khiển phổ biến như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
@@ -69,7 +69,7 @@ Mạch còi báo MKE-M03 Buzzer Module hỗ trợ điện áp giao tiếp 3.3V v
 
 ### Hướng dẫn sử dụng với Arduino Uno / Vietduino Uno / ESP32
 - Trong **Tools / Library Manager**, tìm và cài đặt bộ thư viện tổng hợp **"MKE_ONE" by MakerEdu.vn**
-- Mở chương trình mẫu **"MKE_M03_Buzzer_Serial_XXX"** tại **File / Examples / MAKEREDU / Module / MKE_M03_Buzzer**
+- Mở chương trình mẫu **"MKE_M03_Buzzer_Serial_XXX"** tại **File / Examples / MKE_ONE / Module / MKE_M03_Buzzer**
 - Cấu hình board mạch tương ứng là **Arduino Uno / ESP32**, chọn đúng cổng **COM Port** của mạch và nhấn **Upload** để nạp chương trình.
 - Cấp nguồn 5VDC cho mạch, kết nối chân S (SIGNAL) của module với chân điều khiển được khai báo trong chương trình.
 - Xem kết quả mạch hoạt động theo chương trình đã nạp.
@@ -90,6 +90,8 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ![MKE-M03 Buzzer](/extras/MKE-M03_2.png)
 ![MKE-M03 Buzzer](/extras/MKE-M03_3.png)
 
+## Miễn trừ trách nhiệm
+Sản phẩm này là bo mạch phát triển được thiết kế phục vụ cho mục đích nghiên cứu, thử nghiệm và học tập, không phải là một thiết bị hoàn chỉnh. Trong trường hợp người dùng kết hợp mạch này với các linh kiện, thiết bị hoặc phần mềm khác để tạo thành một hệ thống hoặc sản phẩm hoàn chỉnh, mọi chức năng và tính phù hợp của sản phẩm sau cùng đều thuộc trách nhiệm của người dùng.
 
 
 
